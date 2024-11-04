@@ -22,9 +22,11 @@ Table of Contents
 9.	Future Work
     
 Project Overview
+
 The project analyzes voting patterns, turnout, and other essential metrics for the 2019 Nigerian Presidential Election. With a focus on the two major political parties—All Progressives Congress (APC) and Peoples Democratic Party (PDP)—this project explores regional voting differences and offers a holistic view of the election results across Nigeria's geopolitical zones.
 
 Data Source
+
 The data used in this analysis is sourced from Kaggle, credited to "The Up School Talent." The dataset includes details on:
 
 •	Total Votes by Party: APC, PDP, and other minor parties.
@@ -36,6 +38,7 @@ The data used in this analysis is sourced from Kaggle, credited to "The Up Schoo
 •	Winning States by Party: States won by APC and PDP, as well as their respective vote counts.
 
 Data Structure
+
 The dataset includes several key features:
 
 •	State: The name of each Nigerian state where votes were cast.
