@@ -3,31 +3,28 @@
 This repository presents an in-depth analysis of the 2019 Nigerian Presidential Election, based on data obtained from Kaggle provided by "The Up School Talent." The analysis provides insights into voter turnout, party results, and geopolitical voting patterns. The main objective is to deliver an interactive, data-driven understanding of the election process and its outcomes.
 
 Table of Contents
-
 1.	Project Overview
-2.	
-3.	Data Source
-4.	
-5.	Data Structure
-6.	
-7.	Key Insights
-8.	
-9.	Installation and Setup
-10.	
-11.	Data Analysis Process
-12.	
-13.	Results and Visualizations
-14.	
-15.	Conclusion
-16.	
-17.	Future Work
+   
+2.	Data Source
+   
+3.	Data Structure
+   
+4.	Key Insights
+   
+5.	Installation and Setup
+    
+6.	Data Analysis Process
+    
+7.	Results and Visualizations
+	
+8.	Conclusion
+    
+9.	Future Work
     
 Project Overview
-
 The project analyzes voting patterns, turnout, and other essential metrics for the 2019 Nigerian Presidential Election. With a focus on the two major political parties—All Progressives Congress (APC) and Peoples Democratic Party (PDP)—this project explores regional voting differences and offers a holistic view of the election results across Nigeria's geopolitical zones.
 
 Data Source
-
 The data used in this analysis is sourced from Kaggle, credited to "The Up School Talent." The dataset includes details on:
 
 •	Total Votes by Party: APC, PDP, and other minor parties.
@@ -39,7 +36,6 @@ The data used in this analysis is sourced from Kaggle, credited to "The Up Schoo
 •	Winning States by Party: States won by APC and PDP, as well as their respective vote counts.
 
 Data Structure
-
 The dataset includes several key features:
 
 •	State: The name of each Nigerian state where votes were cast.
@@ -66,7 +62,7 @@ o	PDP received around 11 million votes.
 o	Minor parties collectively garnered approximately 870,000 votes.
 
 
-3.	Voter Turnout:
+2.	Voter Turnout:
    
 o	Total voter turnout was 35.66%.
 
@@ -75,7 +71,7 @@ o	Of 82 million registered voters, only 29 million were accredited to vote.
 o	Approximately 1 million votes were rejected as invalid.
 
 
-5.	Geopolitical Zone Breakdown:
+3.	Geopolitical Zone Breakdown:
    
 o	North - West: 8.4 million valid votes (highest among all zones).
 
@@ -88,7 +84,7 @@ o	South - South: 3.4 million votes.
 o	South - East: 2.2 million votes (lowest among all zones).
 
 
-7.	State Results:
+4.	State Results:
    
 o	APC won 19 states.
 
@@ -114,7 +110,6 @@ Data Analysis Process
 •	Maps: Highlight states won by each party.
 
 Results and Visualizations
-
 The analysis provides various visual representations:
 1.	Election Outcome by Party: A clear summary of APC, PDP, and other parties' total votes.
 2.	Geopolitical Zone Breakdown: A bar chart showing valid votes per zone, indicating regional preferences.
@@ -125,7 +120,6 @@ Conclusion
 The 2019 Nigerian Presidential Election demonstrates varying political alignments across Nigeria’s regions. APC’s majority win was primarily driven by high support in the northern zones, whereas PDP performed strongly in specific states, particularly in the south. This analysis offers insights into the impact of regional voting patterns on national elections, providing valuable context for political strategists, analysts, and other stakeholders.
 
 Future Work
-
 Potential extensions of this analysis could include:
 •	Comparative Analysis: Analyze previous election data to observe trends over time.
 •	Sentiment Analysis: Integrate social media sentiment data to correlate public opinion with actual voting outcomes.
