@@ -1,3 +1,6 @@
+![Map of Election result](https://github.com/user-attachments/assets/bdee1fe3-85be-467e-b63b-522e848c8b65)
+
+
 2019 Nigerian Presidential Election Analysis
 
 This repository presents an in-depth analysis of the 2019 Nigerian Presidential Election, based on data obtained from Kaggle provided by "The Up School Talent." The analysis provides insights into voter turnout, party results, and geopolitical voting patterns. The main objective is to deliver an interactive, data-driven understanding of the election process and its outcomes.
